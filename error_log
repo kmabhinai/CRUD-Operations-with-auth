@@ -1,0 +1,2 @@
+[09-Jul-2022 12:25:09 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'knlscoin_knlsadmin'@'localhost' to database 'knlscoin_0eshram' in /home2/knlscoin/public_html/knls/vtech/dbconnection.php on line 2
+[09-Jul-2022 12:32:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'knlscoin_5cf1_cg'@'localhost' (using password: YES) in /home2/knlscoin/public_html/knls/vtech/dbconnection.php on line 2
