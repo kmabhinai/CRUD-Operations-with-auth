@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost", "knlscoin_knlsadmin", "db@223277", "knlscoin_crm");
+$con=mysqli_connect("localhost", "", "", "vtech");
 if(mysqli_connect_errno()){
 echo "Connection Fail".mysqli_connect_error();
 }
